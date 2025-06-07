@@ -1,4 +1,4 @@
-# Executor
+https://paste.ee/r/Otu2aeRu# Executor
 Real-time text formatting tool. Use `{command *arguments}>`. Example: `{ip}>` (without args), `{randomize 2 9}>` (2 args). Type `{help}>` to see all commands.
 
 # Built-in commands
